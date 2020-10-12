@@ -60,7 +60,7 @@ public class Math {
 		System.out.println("Factorial of 6 is: " + math.calculteFactorialOf(5L) + "\n\n");
 		
 		
-		System.out.println("Sum of multiples of 3 or 5: " + math.sumMultiplesOf3Or5LowerThan(10L));
+		System.out.println("Sum of multiples of 3 or 5 lower than 10 is " + math.sumMultiplesOf3Or5LowerThan(10L));
 		
 
 	}
